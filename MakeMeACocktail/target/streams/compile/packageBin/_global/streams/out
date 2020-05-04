@@ -1,0 +1,97 @@
+[0m[[0m[0mdebug[0m] [0m[0mPackaging /Users/jkocher/Documents/projects/Week9-ResearchProjects/MakeMeACocktail/target/scala-2.11/make_me_a_cocktail_2.11-1.0.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/jkocher/Documents/projects/Week9-ResearchProjects/MakeMeACocktail/target/scala-2.11/classes[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Main$$anonfun$1 2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/jkocher/Documents/projects/Week9-ResearchProjects/MakeMeACocktail/target/scala-2.11/classes/Main$$anonfun$1 2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Main$$anonfun$2 3.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/jkocher/Documents/projects/Week9-ResearchProjects/MakeMeACocktail/target/scala-2.11/classes/Main$$anonfun$2 3.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Main 5.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/jkocher/Documents/projects/Week9-ResearchProjects/MakeMeACocktail/target/scala-2.11/classes/Main 5.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Main$$anonfun$4.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/jkocher/Documents/projects/Week9-ResearchProjects/MakeMeACocktail/target/scala-2.11/classes/Main$$anonfun$4.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Main$delayedInit$body 2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/jkocher/Documents/projects/Week9-ResearchProjects/MakeMeACocktail/target/scala-2.11/classes/Main$delayedInit$body 2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Main$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/jkocher/Documents/projects/Week9-ResearchProjects/MakeMeACocktail/target/scala-2.11/classes/Main$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Main$$anonfun$3 5.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/jkocher/Documents/projects/Week9-ResearchProjects/MakeMeACocktail/target/scala-2.11/classes/Main$$anonfun$3 5.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Main 3.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/jkocher/Documents/projects/Week9-ResearchProjects/MakeMeACocktail/target/scala-2.11/classes/Main 3.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Main$$anonfun$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/jkocher/Documents/projects/Week9-ResearchProjects/MakeMeACocktail/target/scala-2.11/classes/Main$$anonfun$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Main$$anonfun$1 4.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/jkocher/Documents/projects/Week9-ResearchProjects/MakeMeACocktail/target/scala-2.11/classes/Main$$anonfun$1 4.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Main$$anonfun$2 5.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/jkocher/Documents/projects/Week9-ResearchProjects/MakeMeACocktail/target/scala-2.11/classes/Main$$anonfun$2 5.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Main$delayedInit$body 4.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/jkocher/Documents/projects/Week9-ResearchProjects/MakeMeACocktail/target/scala-2.11/classes/Main$delayedInit$body 4.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Main$delayedInit$body 6.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/jkocher/Documents/projects/Week9-ResearchProjects/MakeMeACocktail/target/scala-2.11/classes/Main$delayedInit$body 6.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Main$$anonfun$3 3.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/jkocher/Documents/projects/Week9-ResearchProjects/MakeMeACocktail/target/scala-2.11/classes/Main$$anonfun$3 3.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Main$$anonfun$1 6.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/jkocher/Documents/projects/Week9-ResearchProjects/MakeMeACocktail/target/scala-2.11/classes/Main$$anonfun$1 6.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Main$$anonfun$3 4.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/jkocher/Documents/projects/Week9-ResearchProjects/MakeMeACocktail/target/scala-2.11/classes/Main$$anonfun$3 4.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Main 4.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/jkocher/Documents/projects/Week9-ResearchProjects/MakeMeACocktail/target/scala-2.11/classes/Main 4.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Main$$anonfun$5.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/jkocher/Documents/projects/Week9-ResearchProjects/MakeMeACocktail/target/scala-2.11/classes/Main$$anonfun$5.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Main$$anonfun$1 3.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/jkocher/Documents/projects/Week9-ResearchProjects/MakeMeACocktail/target/scala-2.11/classes/Main$$anonfun$1 3.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Main$$anonfun$2 2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/jkocher/Documents/projects/Week9-ResearchProjects/MakeMeACocktail/target/scala-2.11/classes/Main$$anonfun$2 2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Main$delayedInit$body 3.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/jkocher/Documents/projects/Week9-ResearchProjects/MakeMeACocktail/target/scala-2.11/classes/Main$delayedInit$body 3.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Main$$anonfun$3 2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/jkocher/Documents/projects/Week9-ResearchProjects/MakeMeACocktail/target/scala-2.11/classes/Main$$anonfun$3 2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Main$$anonfun$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/jkocher/Documents/projects/Week9-ResearchProjects/MakeMeACocktail/target/scala-2.11/classes/Main$$anonfun$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Main$$anonfun$2 6.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/jkocher/Documents/projects/Week9-ResearchProjects/MakeMeACocktail/target/scala-2.11/classes/Main$$anonfun$2 6.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Main$$anonfun$1 5.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/jkocher/Documents/projects/Week9-ResearchProjects/MakeMeACocktail/target/scala-2.11/classes/Main$$anonfun$1 5.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Main$$anonfun$2 4.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/jkocher/Documents/projects/Week9-ResearchProjects/MakeMeACocktail/target/scala-2.11/classes/Main$$anonfun$2 4.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Main 2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/jkocher/Documents/projects/Week9-ResearchProjects/MakeMeACocktail/target/scala-2.11/classes/Main 2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Main$$anonfun$3.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/jkocher/Documents/projects/Week9-ResearchProjects/MakeMeACocktail/target/scala-2.11/classes/Main$$anonfun$3.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Main$delayedInit$body 5.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/jkocher/Documents/projects/Week9-ResearchProjects/MakeMeACocktail/target/scala-2.11/classes/Main$delayedInit$body 5.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Main$ 2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/jkocher/Documents/projects/Week9-ResearchProjects/MakeMeACocktail/target/scala-2.11/classes/Main$ 2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Main$$anonfun$1$$anonfun$apply$1 2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/jkocher/Documents/projects/Week9-ResearchProjects/MakeMeACocktail/target/scala-2.11/classes/Main$$anonfun$1$$anonfun$apply$1 2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Main$$anonfun$5 3.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/jkocher/Documents/projects/Week9-ResearchProjects/MakeMeACocktail/target/scala-2.11/classes/Main$$anonfun$5 3.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Main$$anonfun$1$$anonfun$apply$1 4.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/jkocher/Documents/projects/Week9-ResearchProjects/MakeMeACocktail/target/scala-2.11/classes/Main$$anonfun$1$$anonfun$apply$1 4.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Main$ 4.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/jkocher/Documents/projects/Week9-ResearchProjects/MakeMeACocktail/target/scala-2.11/classes/Main$ 4.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Main$$anonfun$4 3.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/jkocher/Documents/projects/Week9-ResearchProjects/MakeMeACocktail/target/scala-2.11/classes/Main$$anonfun$4 3.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Main$ 6.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/jkocher/Documents/projects/Week9-ResearchProjects/MakeMeACocktail/target/scala-2.11/classes/Main$ 6.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Main$$anonfun$5 2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/jkocher/Documents/projects/Week9-ResearchProjects/MakeMeACocktail/target/scala-2.11/classes/Main$$anonfun$5 2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Main.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/jkocher/Documents/projects/Week9-ResearchProjects/MakeMeACocktail/target/scala-2.11/classes/Main.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Main$$anonfun$1$$anonfun$apply$1 3.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/jkocher/Documents/projects/Week9-ResearchProjects/MakeMeACocktail/target/scala-2.11/classes/Main$$anonfun$1$$anonfun$apply$1 3.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Main$ 3.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/jkocher/Documents/projects/Week9-ResearchProjects/MakeMeACocktail/target/scala-2.11/classes/Main$ 3.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Main$$anonfun$1$$anonfun$apply$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/jkocher/Documents/projects/Week9-ResearchProjects/MakeMeACocktail/target/scala-2.11/classes/Main$$anonfun$1$$anonfun$apply$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Main$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/jkocher/Documents/projects/Week9-ResearchProjects/MakeMeACocktail/target/scala-2.11/classes/Main$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Main$$anonfun$4 4.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/jkocher/Documents/projects/Week9-ResearchProjects/MakeMeACocktail/target/scala-2.11/classes/Main$$anonfun$4 4.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Main$ 5.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/jkocher/Documents/projects/Week9-ResearchProjects/MakeMeACocktail/target/scala-2.11/classes/Main$ 5.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Main$$anonfun$1$$anonfun$apply$1 5.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/jkocher/Documents/projects/Week9-ResearchProjects/MakeMeACocktail/target/scala-2.11/classes/Main$$anonfun$1$$anonfun$apply$1 5.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Main$$anonfun$4 2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/jkocher/Documents/projects/Week9-ResearchProjects/MakeMeACocktail/target/scala-2.11/classes/Main$$anonfun$4 2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0mDone packaging.[0m

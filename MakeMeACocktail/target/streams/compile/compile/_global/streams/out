@@ -1,0 +1,4 @@
+[0m[[0m[31merror[0m] [0m[0m/Users/jkocher/Documents/scala_project/hello-world/src/main/scala/Main.scala:29:6: reassignment to val[0m
+[0m[[0m[31merror[0m] [0m[0m	gin = scala.io.StdIn.readLine()[0m
+[0m[[0m[31merror[0m] [0m[0m	    ^[0m
+[0m[[0m[31merror[0m] [0m[0mone error found[0m

@@ -1,0 +1,7 @@
+[0m[[0m[31merror[0m] [0m[0m/Users/jkocher/Documents/projects/Week9-ResearchProjects/plotly_demo/src/main/scala/example/plotly-scala.scala:67:29: not found: value commonOptions[0m
+[0m[[0m[31merror[0m] [0m[0m  		.withScatter(lat, conf, commonOptions.name("Latitude"))[0m
+[0m[[0m[31merror[0m] [0m[0m  		                        ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/jkocher/Documents/projects/Week9-ResearchProjects/plotly_demo/src/main/scala/example/plotly-scala.scala:72:29: not found: value commonOptions[0m
+[0m[[0m[31merror[0m] [0m[0m  		.withScatter(lon, conf, commonOptions.name("Longitude"))[0m
+[0m[[0m[31merror[0m] [0m[0m  		                        ^[0m
+[0m[[0m[31merror[0m] [0m[0mtwo errors found[0m

@@ -1,0 +1,7 @@
+[0m[[0m[31merror[0m] [0m[0m/Users/jkocher/Documents/scala_project/scala_demo/src/main/scala/example/scalacompiled.scala:24:2: not found: value favNum[0m
+[0m[[0m[31merror[0m] [0m[0m	favNum = readLine.toInt[0m
+[0m[[0m[31merror[0m] [0m[0m	^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/jkocher/Documents/scala_project/scala_demo/src/main/scala/example/scalacompiled.scala:30:22: not found: value favNum[0m
+[0m[[0m[31merror[0m] [0m[0m	var added = addToIt(favNum, numberGuess)[0m
+[0m[[0m[31merror[0m] [0m[0m	                    ^[0m
+[0m[[0m[31merror[0m] [0m[0mtwo errors found[0m
